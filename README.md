@@ -1,4 +1,6 @@
-# network-clustering
+# Network Clustering
+
+See this [paper](https://arxiv.org/abs/1803.08101) about spatial clustering and this [article](https://escholarship.org/uc/item/4720r36p) about OSMnx.
 
 ## Setup
 
