@@ -1,0 +1,11 @@
+name: network-clustering
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - scikit-learn
+  - scipy
+  - osmnx
+  - pandas
+  - numpy
+  - networkx
